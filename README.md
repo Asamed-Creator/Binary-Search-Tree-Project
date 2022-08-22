@@ -9,10 +9,10 @@
 Binary searc dizinin sıralı olduğunu varsayar:
 
 root:7 
-5 rootun solunda. 1 sayısı 5 in solunda. 
-8 rootun sağında. 3 sayısı 1 in sağında. 
-6 sayısı 3 ün sağında. 
-0 sayısı 6 nın solunda. 
-9 sayısı 8 in sağında. 
-4 sayısı 0 ın sağında. 
-2 sayısı 4 ün solunda. 
+- 5 rootun solunda. 1 sayısı 5 in solunda. 
+- 8 rootun sağında. 3 sayısı 1 in sağında. 
+- 6 sayısı 3 ün sağında. 
+- 0 sayısı 6 nın solunda. 
+- 9 sayısı 8 in sağında. 
+- 4 sayısı 0 ın sağında. 
+- 2 sayısı 4 ün solunda. 
